@@ -54,5 +54,5 @@ This project performs **Natural Language Processing (NLP)** on product reviews f
 
 ## 📈 Example Output
 ### 🧠 TELEGRAM BOT
-![TELEGRAM BOT](./assetsss/dashboard.png)
+![TELEGRAM BOT](bot3.png)
 
